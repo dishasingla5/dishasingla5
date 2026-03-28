@@ -1,6 +1,6 @@
 # Disha Singla
 
-Pre-final year Electronics and Communication Engineering student with strong interest in Robotics, Embedded Systems, and VLSI Design.
+Pre-final year Electronics and Communication Engineering student specializing in Robotics, Embedded Systems, and VLSI Design, with hands-on experience in ROS2-based autonomous navigation, FPGA design, and real-time control systems.
 
 ## Domains
 
